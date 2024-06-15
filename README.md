@@ -3,8 +3,10 @@ Juego de Yahtzee Clásico - Curso de Simulación
 Descripción
 Este proyecto implementa una simulación del clásico juego de Yahtzee utilizando el lenguaje de programación Python. Fue desarrollado para el curso de Simulación, por Ossman Mejía Guzmán, estudiante de Ingeniería en Desarrollo de Software y Datos de la Institución Universitaria Digital de Antioquia, bajo la supervisión del docente Diego León Zapata Ruiz.
 
+
 Instrucciones
 El juego consiste en simular hasta tres lanzamientos de cinco dados convencionales de seis caras en cada turno. Los jugadores pueden elegir cuáles dados conservar y cuáles volver a lanzar, con el objetivo de obtener combinaciones que les otorguen puntos. La distribución de probabilidad es uniforme.
+
 
 Reglas Básicas del Juego
 Lanzamientos: Cada jugador tiene hasta tres lanzamientos por turno.
