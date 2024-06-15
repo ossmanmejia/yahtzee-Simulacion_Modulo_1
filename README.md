@@ -1,7 +1,11 @@
 S20 - Módulo 1. Actividad didáctica 2-M1
+
 Juego de Yahtzee Clásico - Curso de Simulación
+
 Descripción
-Este proyecto implementa una simulación del clásico juego de Yahtzee utilizando el lenguaje de programación Python. Fue desarrollado para el curso de Simulación, por Ossman Mejía Guzmán, estudiante de Ingeniería en Desarrollo de Software y Datos de la Institución Universitaria Digital de Antioquia, bajo la supervisión del docente Diego León Zapata Ruiz.
+Este proyecto implementa una simulación del clásico juego de Yahtzee utilizando el lenguaje de programación Python. 
+
+Fue desarrollado para el curso de Simulación, por Ossman Mejía Guzmán, estudiante de Ingeniería en Desarrollo de Software y Datos de la Institución Universitaria Digital de Antioquia, bajo la supervisión del docente Diego León Zapata Ruiz.
 
 
 Instrucciones
@@ -9,6 +13,8 @@ El juego consiste en simular hasta tres lanzamientos de cinco dados convencional
 
 
 Reglas Básicas del Juego
+
+
 Lanzamientos: Cada jugador tiene hasta tres lanzamientos por turno.
 Combinaciones: Las combinaciones posibles incluyen:
 Números iguales (Ones, Twos, etc.)
